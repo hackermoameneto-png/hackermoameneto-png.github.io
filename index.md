@@ -15,7 +15,7 @@ I leverage my strong **IT and networking foundation** to break down web applicat
 
 ## 🛠️ Professional Links
 * **📄 [View My Resume (PDF)](https://drive.google.com/file/d/1tzhFt29ofDaou40B0vgIhLie_m35ftIg/view?usp=drive_link)**
-* **📜 [View Verified Certifications](https://drive.google.com/drive/folders/1QUXZ39MX6KrEKUP2YIZOYVNKonZok1JK?usp=drive_link)**
+* **📜 [View Verified Certifications](https://drive.google.com/drive/folders/1QUXz39MX6KrEKUP2YlZOYVNKonZok1JK?usp=drive_link)**
 * **💻 [Pentesting-Writeups Repository](https://github.com/hackermoameneto-png/Pentesting-Writeups)**
 
 ---
