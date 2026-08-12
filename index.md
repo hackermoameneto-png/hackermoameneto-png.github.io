@@ -1,10 +1,4 @@
-layout: single
-title: "Moamen Ayman - Cyber Security Portfolio"
-author_profile: true
-toc: true
-toc_label: "My Portfolio"
-toc_icon: "cog"
----
+
 
 # 👋 Welcome to my Cyber Hub
 
